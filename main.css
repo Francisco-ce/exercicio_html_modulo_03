@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1000px;
+    width:100%;
+    margin: 0 auto;
+    /* background-color: burlywood; */
+}
+
+.container label {
+    display: block;
+}
+
+.container {
+    margin-top: 16px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+header {
+    background-color: #00BFFF;
+    padding-left: 20px;
+    border-bottom: black double ;
+}
+
+button {
+    border: none;
+    background-color: Grey;
+    color: white;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+input {
+    width: 100%;
+}
